@@ -1,4 +1,4 @@
-test1
+a1
 let moji = prompt( '年齢は？' );
 let age = parseInt( moji );
 if ( age < 6 ){
